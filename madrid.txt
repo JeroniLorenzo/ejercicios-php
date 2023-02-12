@@ -1,0 +1,12 @@
+Esto es el mensaje
+Esto es el mensaje de error
+Esto es el mensaje de info
+[10/02/2023 - 10:04:27]Esto es el mensaje
+[10/02/2023 - 10:04:27]Esto es el mensaje de error
+[10/02/2023 - 10:04:27]Esto es el mensaje de info
+[10/02/2023 - 10:04:28]Esto es el mensaje
+[10/02/2023 - 10:04:28]Esto es el mensaje de error
+[10/02/2023 - 10:04:28]Esto es el mensaje de info
+[10/02/2023 - 11:10:58]Esto es el mensaje
+[10/02/2023 - 11:10:58]Esto es el mensaje de error
+[10/02/2023 - 11:10:58]Esto es el mensaje de info
